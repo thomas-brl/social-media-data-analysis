@@ -1,12 +1,12 @@
-# Analyse de données de réseaux sociaux (InPoDA)
+# Analyse de données de réseaux sociaux (InPoDa)
 
 ## Description du projet
 
-Ce projet simule une plateforme fictive appelée **InPoDA** dédiée à la collecte, au traitement et à l’analyse de données issues des réseaux sociaux.
+Ce projet simule une plateforme fictive appelée **InPoDa** dédiée à la collecte, au traitement et à l’analyse de données issues des réseaux sociaux.
 
 L’objectif est de reproduire un pipeline simple de traitement de tweets afin d’en extraire des informations utiles et de générer des analyses.
 
-Un diagramme présent dans ce dépôt illustre le processus de traitement d’un tweet dans le système InPoDA.
+Un diagramme présent dans ce dépôt illustre le processus de traitement d’un tweet dans le système InPoDa.
 
 ---
 
@@ -41,8 +41,8 @@ Le notebook permet notamment de réaliser les analyses suivantes :
 
 ## Contenu du projet
 
-- `inpoda.ipynb` : notebook principal contenant le code et les analyses
-- `diagramme.png` : schéma du pipeline de traitement des tweets dans InPoDA
+- `InPoDa.ipynb` : notebook principal contenant le code et les analyses
+- `diagramme.png` : schéma du pipeline de traitement des tweets dans InPoDa
 
 ---
 
@@ -50,4 +50,4 @@ Le notebook permet notamment de réaliser les analyses suivantes :
 
 Le diagramme ci-dessous illustre le fonctionnement global du traitement d’un tweet :
 
-![Diagramme InPoDA](diagramme.png)
+![Diagramme InPoDa](diagramme.png)
