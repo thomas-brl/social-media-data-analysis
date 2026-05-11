@@ -1,6 +1,6 @@
 # Analyse de données de réseaux sociaux (InPoDa)
 
-## Description du projet
+## Description
 
 Ce projet simule une plateforme fictive appelée **InPoDa** dédiée à la collecte, au traitement et à l’analyse de données issues des réseaux sociaux.
 
